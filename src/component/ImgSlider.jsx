@@ -2,7 +2,7 @@ import React from 'react'
 import './ImgSlider.css'
 import Carousel from 'react-multi-carousel'
 import "react-multi-carousel/lib/styles.css";
-import {  SlidingImages } from '../component/lola'
+import {  SlidingImages } from './SliderImgCollection'
 
 
 const Crousel = () => {
