@@ -395,8 +395,8 @@
     }
 }
 .r{
-    background-color: black;
-    padding-bottom:30px ;
+    background-color: #333;
+    padding-block:30px ;
 }
 .r .s{
     display: flex;
